@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mohamed! 👋
 
 I do research and develop interactive data visualizations and prototypes, aiming to solve complex problems in innovative ways. My work is a blend of technology and strategic thinking, focused on uncovering insights and practical solutions. Committed to continuous growth and meaningful impact, my journey integrates personal development with a vision to contribute significantly in both professional and community realms.
 
